@@ -7,8 +7,8 @@ function App() {
       'board-buttons': function(t, options) {
         return [{
           icon: {
-            dark: 'https://firebasestorage.googleapis.com/v0/b/unlimited-apis.appspot.com/o/applicationFiles%2Fpowerups%2Ficons8-chat%20(1).gif?alt=media&token=9b0ebea8-8520-4605-b5ec-ab8541ab1f56',
-            light: 'https://firebasestorage.googleapis.com/v0/b/unlimited-apis.appspot.com/o/applicationFiles%2Fpowerups%2Ficons8-chat%20(1).gif?alt=media&token=9b0ebea8-8520-4605-b5ec-ab8541ab1f56'
+            dark: 'https://firebasestorage.googleapis.com/v0/b/unlimited-apis.appspot.com/o/applicationFiles%2Fpowerups%2Fchatbot.png?alt=media&token=977eec6d-abb3-4492-8f9d-c8acdef65ca8',
+            light: 'https://firebasestorage.googleapis.com/v0/b/unlimited-apis.appspot.com/o/applicationFiles%2Fpowerups%2Fchatbot.png?alt=media&token=977eec6d-abb3-4492-8f9d-c8acdef65ca8'
           },
           text: 'AI Chat',
           callback: function(t) {
