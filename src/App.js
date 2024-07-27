@@ -10,7 +10,7 @@ function App() {
             dark: 'https://firebasestorage.googleapis.com/v0/b/unlimited-apis.appspot.com/o/applicationFiles%2Fpowerups%2Fchatbot.png?alt=media&token=977eec6d-abb3-4492-8f9d-c8acdef65ca8',
             light: 'https://firebasestorage.googleapis.com/v0/b/unlimited-apis.appspot.com/o/applicationFiles%2Fpowerups%2Fchatbot.png?alt=media&token=977eec6d-abb3-4492-8f9d-c8acdef65ca8'
           },
-          text: 'AI Chat',
+          text: 'Ask Trello',
           callback: function(t) {
             return t.popup({
               title: 'AI Chat Assistant',
