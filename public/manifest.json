@@ -1,0 +1,17 @@
+{
+  "name": "AI Powered Chat Assistant",
+  "details": "Chat with an AI about your Trello board",
+  "icon": {
+    "url": "https://glistening-choux-190890.netlify.app/logo192.png"
+  },
+  "author": "Your Name",
+  "capabilities": [
+    "callback",
+    "board-buttons"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "https://glistening-choux-190890.netlify.app"
+    }
+  }
+}
