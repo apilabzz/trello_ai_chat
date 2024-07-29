@@ -7,8 +7,8 @@ function App() {
       'board-buttons': function(t, options) {
         return [{
           icon: {
-            dark: 'https://firebasestorage.googleapis.com/v0/b/unlimited-apis.appspot.com/o/applicationFiles%2Fpowerups%2Fchatbot.png?alt=media&token=977eec6d-abb3-4492-8f9d-c8acdef65ca8',
-            light: 'https://firebasestorage.googleapis.com/v0/b/unlimited-apis.appspot.com/o/applicationFiles%2Fpowerups%2Fchatbot.png?alt=media&token=977eec6d-abb3-4492-8f9d-c8acdef65ca8'
+            dark: 'https://trellochat.netlify.app/chatbot.png',
+            light: 'https://trellochat.netlify.app/chatbot.png'
           },
           text: 'Ask Trello',
           callback: function(t) {
