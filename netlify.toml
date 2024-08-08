@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = "dist"
+  publish = "trello_ai_chat"
 
 [build.environment]
   NODE_VERSION = "14"
